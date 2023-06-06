@@ -1,0 +1,15 @@
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.AssemblyInfoInputs.cache
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.AssemblyInfo.cs
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.exe
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.deps.json
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.runtimeconfig.json
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.dll
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.pdb
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.dll
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\refint\AtividadePratica.dll
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.pdb
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.genruntimeconfig.cache
+D:\Visual Studio\Repos\AtividadePratica POO\AtividadePratica\AtividadePratica\obj\Debug\net6.0\ref\AtividadePratica.dll
